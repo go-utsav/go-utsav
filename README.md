@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushigoswami&label=Profile%20views&color=0e75b6&style=flat" alt="rushigoswami" /> </p>
 
-- 🌱 I’m currently learning **MERN stack, Data Structures & Algorithms**
+- 🌱 I’m currently learning **MERN stack with cloud technologies like AWS**
 
 - 💬 Ask me about **Javascript NodeJs ExpressJs API**
 
