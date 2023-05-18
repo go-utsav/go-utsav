@@ -1,27 +1,8 @@
-<h1 align="center">Hi 👋, I'm Utsav Gohel  </h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Web developer" widht="200" height="270" align="right">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushigoswami&label=Profile%20views&color=0e75b6&style=flat" alt="rushigoswami" /> </p>
-
-- 🌱 I’m currently learning **MERN stack with cloud technologies like AWS**
-
-- 💬 Ask me about **Javascript NodeJs ExpressJs API**
-
-- 📫 How to reach me **utsavgohel3@gmail.com**
-<br>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=go-utsav&show_icons=true&locale=en" alt="rushigoswami" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=go-utsav&" alt="go-utsav" /></p>
-
-
 
 <h1 align="center"><b>Hi , I'm Utsav Gohel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Big+hi..+from+Utsav+Gohel..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
