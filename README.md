@@ -35,14 +35,10 @@
 	
     ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-	
-	
     ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-	
-	
+    ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)	
     ![API](https://img.shields.io/badge/API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)
-    ![AWS LAMDA](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  
 
 
 
@@ -58,6 +54,7 @@
 
   
 - **Database **:
+	
 	![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 	![Sequelize ORM](https://img.shields.io/badge/Sequelize-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
 
@@ -65,7 +62,6 @@
 
 - **AWS Services**:
 
-    	![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 	![AWS Lamda](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 	![AWS S3](https://img.shields.io/badge/AWS%20S3-%2300A3FF.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
 	![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-rds&logoColor=white)
@@ -88,16 +84,9 @@
 
 <br>
 
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 </p>
-
-<br>
-<br>
 
 -----
 
@@ -114,7 +103,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 </a> -->
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=go-utsav&show_icons=true&locale=en" alt="go-utsav" width="450"/></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=go-utsav&" alt="go-utsav" width="450" /></p>
