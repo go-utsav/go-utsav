@@ -1,8 +1,5 @@
-# Welcome to My GitHub Profile!
 
-[![GitHub followers](https://img.shields.io/github/followers/go-utsav?style=social)](https://github.com/go-utsav)
-[![GitHub stars](https://img.shields.io/github/stars/go-utsav?style=social)](https://github.com/go-utsav)
-[![GitHub forks](https://img.shields.io/github/forks/go-utsav?style=social)](https://github.com/go-utsav)
+
 
 
 <h1 align="center"><b>Hi , I'm Utsav Gohel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -11,6 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Big+hi..+from+Utsav+Gohel..&hearts;++;Self-taught+Cloud+Software+Developer,;IT+Student,;Learning+DevOps+With+Cloud+Technology,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
+[![GitHub followers](https://img.shields.io/github/followers/go-utsav?style=social)](https://github.com/go-utsav)
+[![GitHub stars](https://img.shields.io/github/stars/go-utsav?style=social)](https://github.com/go-utsav)
 
 <br>
 
