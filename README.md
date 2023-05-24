@@ -1,3 +1,9 @@
+# Welcome to My GitHub Profile!
+
+[![GitHub followers](https://img.shields.io/github/followers/go-utsav?style=social)](https://github.com/go-utsav)
+[![GitHub stars](https://img.shields.io/github/stars/go-utsav?style=social)](https://github.com/go-utsav)
+[![GitHub forks](https://img.shields.io/github/forks/go-utsav?style=social)](https://github.com/go-utsav)
+
 
 <h1 align="center"><b>Hi , I'm Utsav Gohel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -16,11 +22,26 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+Hi there! I'm Utsav Gohel, and this is my GitHub profile. I'm passionate about coding and love to contribute to open-source projects. Here are some statistics about my GitHub activity:
 
 - A passionate Self-taught Software Developer
 - Learning DevOps with AWS Cloud Technology
 - Personal website [link](https://www.utsav9.wordpress.com)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/19KlHxHUVCd5LXUzrYAUMqWgiLHzMeCs3/view?usp=sharing)
+- I’m currently open for an Freelancing work or a new job opportunity, this is [my resume](https://drive.google.com/file/d/19KlHxHUVCd5LXUzrYAUMqWgiLHzMeCs3/view?usp=sharing)
+
+
+- 👥 I have [![GitHub followers](https://img.shields.io/github/followers/go-utsav?label=GitHub%20Followers&style=social)](https://github.com/go-utsav) followers.
+- ⭐️ I have contributed to [![GitHub stars](https://img.shields.io/github/stars/go-utsav?label=GitHub%20Stars&style=social)](https://github.com/go-utsav) projects.
+- 🍴 I have forked [![GitHub forks](https://img.shields.io/github/forks/go-utsav?label=GitHub%20Forks&style=social)](https://github.com/go-utsav) repositories.
+- 📝 I have created [![GitHub issues](https://img.shields.io/github/issues-raw/go-utsav?label=GitHub%20Issues&style=social)](https://github.com/go-utsav/issues) issues.
+
+Feel free to explore my repositories and contributions. Don't forget to follow me to stay updated with my latest projects!
+
+## Get in Touch
+
+You can find me on other platforms as well. Let's connect!
+
+- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/mr-utsav-gohel/)
 
 <br><br>
 
