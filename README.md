@@ -31,16 +31,18 @@
 
 <p align="center">
 
-- **Languages**:
+- **Backend-End Development**:
 	
     ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 	
+	
     ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-    
+	
+	
     ![API](https://img.shields.io/badge/API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![AWS LAMDA](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
@@ -55,13 +57,25 @@
    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
   
+- **Database **:
+	![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+	![Sequelize ORM](https://img.shields.io/badge/Sequelize-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
 
 <br>
 
-- **Cloud Hosting**:
+- **AWS Services**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+    	![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+	![AWS Lamda](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+	![AWS S3](https://img.shields.io/badge/AWS%20S3-%2300A3FF.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
+	![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-rds&logoColor=white)
+	![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+	![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+	![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%2300A3FF.svg?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+	![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%2300A3FF.svg?style=for-the-badge&logo=amazon-cloudformation&logoColor=white)
+	![Serverless Framework](https://img.shields.io/badge/Serverless%20Framework-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
+
+	
 <br>
 
 - **Softwares and Tools**:
