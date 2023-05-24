@@ -31,8 +31,6 @@ Hi there! I'm Utsav Gohel, and this is my GitHub profile. I'm passionate about c
 
 - 👥 I have [![GitHub followers](https://img.shields.io/github/followers/go-utsav?label=GitHub%20Followers&style=social)](https://github.com/go-utsav) followers.
 - ⭐️ I have contributed to [![GitHub stars](https://img.shields.io/github/stars/go-utsav?label=GitHub%20Stars&style=social)](https://github.com/go-utsav) projects.
-- 🍴 I have forked [![GitHub forks](https://img.shields.io/github/forks/go-utsav?label=GitHub%20Forks&style=social)](https://github.com/go-utsav) repositories.
-- 📝 I have created [![GitHub issues](https://img.shields.io/github/issues-raw/go-utsav?label=GitHub%20Issues&style=social)](https://github.com/go-utsav/issues) issues.
 
 Feel free to explore my repositories and contributions. Don't forget to follow me to stay updated with my latest projects!
 
@@ -118,9 +116,10 @@ You can find me on other platforms as well. Let's connect!
 
 <div align="center">
 <!-- 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<a href="https://github.com/go-utsav/">
+  <img src="https://github-readme-stats.vercel.app/api?username=go-utsav&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=go-utsav&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="go-utsav"/>
+</a>
 
 </a> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=go-utsav&show_icons=true&locale=en" alt="go-utsav" width="450"/></p>
@@ -130,62 +129,11 @@ You can find me on other platforms as well. Let's connect!
 
 </div>
 
-<br>
-<br>
-<br>
 
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 <br>
 
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
 <br>
 
----
-
-<br>
